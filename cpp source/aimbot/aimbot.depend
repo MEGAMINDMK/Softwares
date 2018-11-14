@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1517772590 source:e:\c++\aimbot\main.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	<stdio.h>
+	<conio.h>
+
