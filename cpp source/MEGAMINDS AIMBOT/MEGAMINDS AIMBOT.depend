@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1517775975 source:e:\c++\megaminds aimbot\main.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	<stdio.h>
+	<conio.h>
+

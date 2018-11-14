@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1517819559 source:e:\c++\name\main.cpp
+	<Windows.h>
+	<iostream>
+
+1517861846 source:e:\c++\name changer\main.cpp
+	<Windows.h>
+	<iostream>
+	<conio.h>
+	<stdio.h>
+
