@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1517562878 source:e:\c++\game\main.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+
+1517772395 source:e:\c++\vcmphack\main.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+
