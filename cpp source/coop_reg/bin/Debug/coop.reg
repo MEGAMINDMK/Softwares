@@ -1,0 +1,15 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\vccoop]
+"URL Protocol"=""
+@="URL:Alert Protocol"
+
+[HKEY_CLASSES_ROOT\vccoop\DefaultIcon]
+@="gta-vc.exe,1"
+
+[HKEY_CLASSES_ROOT\vccoop\shell]
+
+[HKEY_CLASSES_ROOT\vccoop\shell\open]
+
+[HKEY_CLASSES_ROOT\vccoop\shell\open\command]
+@="start /E E:\GTAVC-mp\ E:\GTAVC-mp\gta-vc.exe \"%*\""

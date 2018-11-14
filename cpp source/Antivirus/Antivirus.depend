@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1530766937 source:e:\c++\antivirus\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<dos.h>
+	<stdio.h>
+	<fstream>
+	<direct.h>
+
