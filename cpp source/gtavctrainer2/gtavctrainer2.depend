@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1524773054 source:e:\c++\gtavctrainer2\main.cpp
+	<iostream>
+	<string>
+	<windows.h>
+	<conio.h>
+

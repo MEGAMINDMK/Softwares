@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1524659650 source:e:\c++\gtavc-health\main.cpp
+	<iostream>
+	<windows.h>
+
