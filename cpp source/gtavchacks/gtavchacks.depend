@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1524670176 source:e:\c++\gtavchacks\main.cpp
+	<iostream>
+	<windows.h>
+	<string>
+
