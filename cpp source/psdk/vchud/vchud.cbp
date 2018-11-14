@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="vchud" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="GTAVC Release">
+				<Option output="$(GTA_VC_DIR)/scripts/vchud.VC.asi" prefix_auto="0" extension_auto="0" />
+				<Option object_output=".obj/Release" />
+				<Option type="3" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-m32" />
+					<Add option="-fpermissive" />
+					<Add option="-std=gnu++17" />
+					<Add option="-O2" />
+					<Add option="-DNDEBUG" />
+					<Add option="-DGTAVC" />
+					<Add option='-DGTAGAME_NAME=&quot;\&quot;Vice City&quot;\&quot;' />
+					<Add option='-DGTAGAME_ABBR=&quot;\&quot;VC&quot;\&quot;' />
+					<Add option='-DGTAGAME_ABBRLOW=&quot;\&quot;vc&quot;\&quot;' />
+					<Add option='-DGTAGAME_PROTAGONISTNAME=&quot;\&quot;Tommy&quot;\&quot;' />
+					<Add option='-DGTAGAME_CITYNAME=&quot;\&quot;Vice City&quot;\&quot;' />
+					<Add option="-DPLUGIN_SGV_10EN" />
+					<Add directory="$(PLUGIN_SDK_DIR)/plugin_vc/" />
+					<Add directory="$(PLUGIN_SDK_DIR)/plugin_vc/game_vc/" />
+					<Add directory="$(PLUGIN_SDK_DIR)/shared/" />
+				</Compiler>
+				<Linker>
+					<Add option="-static-libgcc" />
+					<Add option="-static-libstdc++" />
+					<Add option="-s" />
+					<Add library="plugin_vc" />
+					<Add directory="$(PLUGIN_SDK_DIR)/output/mingw/lib/" />
+				</Linker>
+			</Target>
+			<Target title="GTAVC Debug">
+				<Option output="$(GTA_VC_DIR)/scripts/vchud.VC_d.asi" prefix_auto="0" extension_auto="0" />
+				<Option object_output=".obj/Debug" />
+				<Option type="3" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-m32" />
+					<Add option="-fpermissive" />
+					<Add option="-std=gnu++17" />
+					<Add option="-g" />
+					<Add option="-D_DEBUG" />
+					<Add option="-DGTAVC" />
+					<Add option='-DGTAGAME_NAME=&quot;\&quot;Vice City&quot;\&quot;' />
+					<Add option='-DGTAGAME_ABBR=&quot;\&quot;VC&quot;\&quot;' />
+					<Add option='-DGTAGAME_ABBRLOW=&quot;\&quot;vc&quot;\&quot;' />
+					<Add option='-DGTAGAME_PROTAGONISTNAME=&quot;\&quot;Tommy&quot;\&quot;' />
+					<Add option='-DGTAGAME_CITYNAME=&quot;\&quot;Vice City&quot;\&quot;' />
+					<Add option="-DPLUGIN_SGV_10EN" />
+					<Add directory="$(PLUGIN_SDK_DIR)/plugin_vc/" />
+					<Add directory="$(PLUGIN_SDK_DIR)/plugin_vc/game_vc/" />
+					<Add directory="$(PLUGIN_SDK_DIR)/shared/" />
+				</Compiler>
+				<Linker>
+					<Add option="-static-libgcc" />
+					<Add option="-static-libstdc++" />
+					<Add library="plugin_vc_d" />
+					<Add directory="$(PLUGIN_SDK_DIR)/output/mingw/lib/" />
+				</Linker>
+			</Target>
+		</Build>
+		<Unit filename="vchud.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

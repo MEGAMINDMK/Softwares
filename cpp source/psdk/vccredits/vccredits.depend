@@ -1,0 +1,447 @@
+# depslib dependency file v1.0
+1520509799 source:e:\c++\psdk\vccredits\vccredits.cpp
+	"plugin.h"
+	"CFont.h"
+	"common.h"
+	"CHud.h"
+
+1520040454 e:\plugin-sdk-master\shared\\plugin.h
+	"PluginBase.h"
+	"Events.h"
+	"extender/PedExtender.h"
+	"extender/VehicleExtender.h"
+	"extender/ObjectExtender.h"
+	"Error.h"
+	"Other.h"
+	"Patch.h"
+	"extensions/Paths.h"
+	"extensions/Screen.h"
+	"extensions/Config.h"
+	"extensions/PoolIterator.h"
+	"comp/PluginsCompatibility.h"
+	"common_sdk.h"
+
+1520040454 e:\plugin-sdk-master\shared\\pluginbase.h
+	<cstddef>
+	<cstdint>
+	"Base.h"
+	"GameVersion.h"
+	"VersionsMacro.h"
+
+1520040454 e:\plugin-sdk-master\shared\\base.h
+
+1520040454 e:\plugin-sdk-master\shared\\gameversion.h
+	<string>
+	<vector>
+	"Error.h"
+	"extensions/Paths.h"
+
+1520040454 e:\plugin-sdk-master\shared\\error.h
+	<Windows.h>
+	<stdio.h>
+	<string>
+	"extensions\Paths.h"
+
+1520040454 e:\plugin-sdk-master\shared\\extensions\paths.h
+
+1520040454 e:\plugin-sdk-master\shared\\versionsmacro.h
+
+1520040454 e:\plugin-sdk-master\shared\\events.h
+	"EventList.h"
+
+1520040454 e:\plugin-sdk-master\shared\\eventlist.h
+	"../injector/hooking.hpp"
+	<vector>
+	<algorithm>
+	<tuple>
+
+1520040454 e:\plugin-sdk-master\shared\\extender\pedextender.h
+	"CPools.h"
+	"Extender.h"
+	"Events.h"
+	<vector>
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\cpools.h
+	"PluginBase.h"
+	"CPool.h"
+	"CTreadable.h"
+	"CDummy.h"
+	"CEntryInfoList.h"
+	"CPtrList.h"
+	"CAutomobile.h"
+	"CPlayerPed.h"
+	"CCutsceneObject.h"
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\cpool.h
+	"PluginBase.h"
+	<cstring>
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\ctreadable.h
+	"PluginBase.h"
+	"CBuilding.h"
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\cbuilding.h
+	"PluginBase.h"
+	"CEntity.h"
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\centity.h
+	"PluginBase.h"
+	"CPlaceable.h"
+	"CRect.h"
+	"RenderWare.h"
+	"CColModel.h"
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\cplaceable.h
+	"PluginBase.h"
+	"CMatrix.h"
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\cmatrix.h
+	"PluginBase.h"
+	"CVector.h"
+	"RenderWare.h"
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\cvector.h
+	"PluginBase.h"
+	"RenderWare.h"
+	<math.h>
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\renderware.h
+	"rw/rwcore.h"
+	"rw/rphanim.h"
+	"rw/rpskin.h"
+	"rw/rpmatfx.h"
+	"rw/skeleton.h"
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\rw\rwcore.h
+	"rwplcore.h"
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\rw\rwplcore.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<stdlib.h>
+	<tchar.h>
+	<math.h>
+	<mathf.h>
+	<math.h>
+	<crtdbg.h>
+	"errcore.def"
+	<xtl.h>
+	<crtdbg.h>
+	<crtdbg.h>
+	"errcom.def"
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\rw\errcore.def
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\rw\errcom.def
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\rw\rphanim.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"rwcore.h"
+	"rpworld.h"
+	"rpcriter.h"
+	"rtquat.h"
+	"rtanim.h"
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\rw\rpworld.h
+	<stdarg.h>
+	<stdlib.h>
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\rw\rpcriter.h
+	"doxygen.h"
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\rw\rtquat.h
+	<math.h>
+	"rwcore.h"
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\rw\rtanim.h
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\rw\rpskin.h
+	"rwcore.h"
+	"rpworld.h"
+	"rpcriter.h"
+	"rphanim.h"
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\rw\rpmatfx.h
+	"rwcore.h"
+	"rpworld.h"
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\rw\skeleton.h
+	"rwcore.h"
+	<Windows.h>
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\crect.h
+	"PluginBase.h"
+	"CVector2D.h"
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\cvector2d.h
+	"PluginBase.h"
+	<math.h>
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\ccolmodel.h
+	"PluginBase.h"
+	"CColBox.h"
+	"CColSphere.h"
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\ccolbox.h
+	"PluginBase.h"
+	"CBox.h"
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\cbox.h
+	"PluginBase.h"
+	"CVector.h"
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\ccolsphere.h
+	"PluginBase.h"
+	"CSphere.h"
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\csphere.h
+	"PluginBase.h"
+	"CVector.h"
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\cdummy.h
+	"PluginBase.h"
+	"CEntity.h"
+	"CEntryInfoList.h"
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\centryinfolist.h
+	"PluginBase.h"
+	"CSector.h"
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\csector.h
+	"PluginBase.h"
+	"CPtrList.h"
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\cptrlist.h
+	"PluginBase.h"
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\cautomobile.h
+	"PluginBase.h"
+	"CVehicle.h"
+	"CDoor.h"
+	"CDamageManager.h"
+	"CWheel.h"
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\cvehicle.h
+	"PluginBase.h"
+	"CPhysical.h"
+	"CAutoPilot.h"
+	"CStoredCollPoly.h"
+	"CDamageManager.h"
+	"CCopPed.h"
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\cphysical.h
+	"PluginBase.h"
+	"CEntity.h"
+	"CSector.h"
+	"CEntryInfoList.h"
+	"CColPoint.h"
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\ccolpoint.h
+	"PluginBase.h"
+	"CVector.h"
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\cautopilot.h
+	"PluginBase.h"
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\cstoredcollpoly.h
+	"PluginBase.h"
+	"CVector.h"
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\cdamagemanager.h
+	"PluginBase.h"
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\ccopped.h
+	"PluginBase.h"
+	"CPed.h"
+	"eCopType.h"
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\cped.h
+	"PluginBase.h"
+	"RenderWare.h"
+	"CPhysical.h"
+	"CStoredCollPoly.h"
+	"CPedIK.h"
+	"CPathNode.h"
+	"CPedStats.h"
+	"CWeapon.h"
+	"ePedStats.h"
+	"eFormation.h"
+	"eWaitState.h"
+	"ePedPieceTypes.h"
+	"eMoveState.h"
+	"eEventType.h"
+	"eMoveState.h"
+	"eObjective.h"
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\cpedik.h
+	"PluginBase.h"
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\cpathnode.h
+	"PluginBase.h"
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\cpedstats.h
+	"PluginBase.h"
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\cweapon.h
+	"PluginBase.h"
+	"eWeaponType.h"
+	"CEntity.h"
+	"CVector.h"
+	"CVector2D.h"
+	"CColPoint.h"
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\eweapontype.h
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\epedstats.h
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\eformation.h
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\ewaitstate.h
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\epedpiecetypes.h
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\emovestate.h
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\eeventtype.h
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\eobjective.h
+
+1520176605 e:\plugin-sdk-master\plugin_vc\game_vc\\ecoptype.h
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\cdoor.h
+	"PluginBase.h"
+	"CVector.h"
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\cwheel.h
+	"PluginBase.h"
+	"CVector.h"
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\cplayerped.h
+	"PluginBase.h"
+	"CPed.h"
+	"eWeaponType.h"
+	"CPad.h"
+	"CPlayerInfo.h"
+	"CWanted.h"
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\cpad.h
+	"PluginBase.h"
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\cplayerinfo.h
+	"PluginBase.h"
+	"CAutomobile.h"
+	"CColModel.h"
+	"CVector.h"
+	"CPtrList.h"
+	"RenderWare.h"
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\cwanted.h
+	"PluginBase.h"
+	"eCrimeType.h"
+	"CVector.h"
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\ecrimetype.h
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\ccutsceneobject.h
+	"PluginBase.h"
+	"CObject.h"
+	"CCutsceneShadow.h"
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\cobject.h
+	"PluginBase.h"
+	"CPhysical.h"
+	"CDummyObject.h"
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\cdummyobject.h
+	"PluginBase.h"
+	"CDummy.h"
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\ccutsceneshadow.h
+	"PluginBase.h"
+	"CShadowCamera.h"
+	"RenderWare.h"
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\cshadowcamera.h
+	"PluginBase.h"
+	"RenderWare.h"
+
+1520040454 e:\plugin-sdk-master\shared\\extender.h
+	<vector>
+
+1520040454 e:\plugin-sdk-master\shared\\extender\vehicleextender.h
+	"CPools.h"
+	"Extender.h"
+	"Events.h"
+	<vector>
+
+1520040454 e:\plugin-sdk-master\shared\\extender\objectextender.h
+	"CPools.h"
+	"Extender.h"
+	"Events.h"
+	<vector>
+
+1520040454 e:\plugin-sdk-master\shared\\other.h
+	<Windows.h>
+
+1520040454 e:\plugin-sdk-master\shared\\patch.h
+	"../injector/injector.hpp"
+
+1520040454 e:\plugin-sdk-master\shared\\extensions\screen.h
+	"CRect.h"
+
+1520040454 e:\plugin-sdk-master\shared\\extensions\config.h
+	<string>
+	<vector>
+	<fstream>
+	<sstream>
+	"CVector.h"
+	"CVector2D.h"
+	"CRect.h"
+	"CRGBA.h"
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\crgba.h
+
+1520040454 e:\plugin-sdk-master\shared\\extensions\pooliterator.h
+	"CPool.h"
+
+1520040454 e:\plugin-sdk-master\shared\\comp\pluginscompatibility.h
+	"plugins/LimitAdjusterSupport.h"
+
+1520040454 e:\plugin-sdk-master\shared\\comp\plugins\limitadjustersupport.h
+	"comp/PluginSupport.h"
+
+1520040454 e:\plugin-sdk-master\shared\\comp\pluginsupport.h
+
+1520040454 e:\plugin-sdk-master\shared\\common_sdk.h
+	"PluginBase.h"
+	"RenderWare.h"
+	"common.h"
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\common.h
+	"PluginBase.h"
+	"CVector.h"
+	"CPed.h"
+	"CVehicle.h"
+	"CTrain.h"
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\ctrain.h
+	"PluginBase.h"
+	"CVehicle.h"
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\cfont.h
+	"PluginBase.h"
+	"CRGBA.h"
+	"CRect.h"
+	"CFontDetails.h"
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\cfontdetails.h
+	"PluginBase.h"
+	"CRGBA.h"
+	"CVector2D.h"
+
+1520040454 e:\plugin-sdk-master\plugin_vc\game_vc\\chud.h
+	"PluginBase.h"
+
