@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1530644534 source:e:\c++\sfc\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<dos.h>
+	<stdio.h>
+	<fstream>
+	<direct.h>
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1530767706 source:e:\c++\sqs\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<dos.h>
+	<stdio.h>
+	<fstream>
+	<direct.h>
+
