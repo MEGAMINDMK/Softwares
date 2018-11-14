@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1524687473 source:e:\c++\gtasam4\main.cpp
+	<iostream>
+	<windows.h>
+	<string>
+

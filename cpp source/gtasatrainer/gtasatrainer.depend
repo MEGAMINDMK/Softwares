@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1524824315 source:e:\c++\gtasatrainer\main.cpp
+	<iostream>
+	<string>
+	<windows.h>
+	<conio.h>
+

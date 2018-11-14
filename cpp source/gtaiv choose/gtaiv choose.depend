@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1526542826 source:e:\c++\gtaiv choose\main.cpp
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<iostream>
+
