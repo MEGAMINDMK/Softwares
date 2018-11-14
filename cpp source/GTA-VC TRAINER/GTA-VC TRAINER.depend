@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1524660022 source:e:\c++\gta-vc trainer\main.cpp
+	<iostream>
+	<string>
+	<windows.h>
+	<conio.h>
+
