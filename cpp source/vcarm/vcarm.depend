@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1524768790 source:e:\c++\vcarm\main.cpp
+	<stdio.h>
+	<iostream>
+	<windows.h>
+

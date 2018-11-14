@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1530602066 source:e:\c++\test\main.cpp
+	<cstdio>
+	<windows.h>
+	<iostream>
+

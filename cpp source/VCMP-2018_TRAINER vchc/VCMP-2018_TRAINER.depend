@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1529936763 source:e:\c++\vcmp-2018_trainer\main.cpp
+	<Windows.h>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+
