@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1533030246 source:e:\c++\discord_bot\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+
