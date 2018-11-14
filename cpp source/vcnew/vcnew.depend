@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1524765465 source:e:\c++\vcnew\main.cpp
+	<stdio.h>
+	<iostream>
+	<windows.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1527412922 source:e:\c++\vcmpmemadr\main.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+

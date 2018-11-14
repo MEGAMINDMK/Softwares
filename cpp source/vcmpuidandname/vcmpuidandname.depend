@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1532421796 source:e:\c++\vcmpuidandname\main.cpp
+	<stdio.h>
+	<iostream>
+	<windows.h>
+	<conio.h>
+
