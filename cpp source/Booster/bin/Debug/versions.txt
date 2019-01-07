@@ -1,0 +1,67 @@
+======= Webnet Official Booster =========
+
+A software which boosts up and optimizes your pc for better performance
+
+Version History:
+================
+
+Webnet Official Booster v0.7
+Features 
+1. Fixes slugish / laged pc
+2. Performence enhancing
+3. Better FPS & Gameplay
+4. System Optimization
+5. Added GUI
+6. Un Boosting support
+----------------------------------------
+
+Webnet Official Booster v0.6
+Features 
+1. Fixes slugish / laged pc
+2. Performence enhancing
+3. Better FPS & Gameplay
+4. System Optimization
+5. Added GUI
+----------------------------------------
+
+Webnet Official Booster v0.5
+Features 
+1. Fixes slugish / laged pc
+2. Performence enhancing
+3. Better FPS & Gameplay
+4. System Optimization
+
+----------------------------------------
+
+Webnet Official Booster v0.4
+Features 
+1. Fixes slugish / laged pc
+2. Performence enhancing
+3. Better FPS & Gameplay
+
+----------------------------------------
+
+Webnet Official Booster v0.3
+Features 
+1. Fixes slugish / laged pc
+2. Performence enhancing
+3. Better FPS & Gameplay
+4. Manual Guide
+
+----------------------------------------
+
+Webnet Official Booster v0.2
+Features 
+1. Fixes slugish / laged pc
+2. Performence enhancing
+3. Better FPS & Gameplay
+4. Manual Guide
+
+-----------------------------------------
+
+Webnet Official Booster v0.1
+Features
+1. Fixes slugish / laged pc
+2. Performence enhancing
+3. Better FPS & Gameplay
+
