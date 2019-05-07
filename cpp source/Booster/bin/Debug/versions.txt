@@ -5,6 +5,27 @@ A software which boosts up and optimizes your pc for better performance
 Version History:
 ================
 
+Webnet Official Booster v0.9
+Features 
+1. Removed unwanted string
+2. Fixed a variable path declarer
+3. Bugs Fixes
+----------------------------------------
+
+Webnet Official Booster v0.8
+Features 
+1. Fixes slugish / laged pc
+2. Performence enhancing
+3. Better FPS & Gameplay
+4. System Optimization
+5. Added GUI
+6. Un Boosting support
+7. Re-wrote code
+8. Removed bad code
+9. New core handler
+10. Removed unwanted files
+----------------------------------------
+
 Webnet Official Booster v0.7
 Features 
 1. Fixes slugish / laged pc
