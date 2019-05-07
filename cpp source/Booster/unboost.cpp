@@ -26,8 +26,9 @@ int main()
     Sleep(3000);
     cout << "Un Boosting..!\n";
     system("start sys/wnoubppb.vbs");
-    system("reg ADD \"HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\VisualEffects\" /v VisualFXSetting /t REG_DWORD /d 0x0 /f");
-    system("wnobnp.bat");
+    //system("reg ADD \"HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\VisualEffects\" /v VisualFXSetting /t REG_DWORD /d 0x0 /f");
+    system("C:\\Windows\\System32\\reg ADD \"HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\VisualEffects\" /v VisualFXSetting /t REG_DWORD /d 0x0 /f");
+     system("start sys\\wnobnp.bat");
     Sleep(3000);
     system("cls");
     cout << "Un Boosted..!";

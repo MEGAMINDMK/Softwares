@@ -20,11 +20,11 @@ int main()
     cout << "Checking...\n";
     cout << "Please wait while we boostup your system...\n";
     Sleep(4000);
-    system("del /s /q \ C:\\Users\\%username%\\AppData\\Local\\Temp");
-    system("del /s /q \ C:\\Windows\\Temp");
-    system("del /s /q \ C:\\Temp");
-    system("del /s /q \ \"C:\\Users\\%username%\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\"");
-    system("del /s /q \ C:\\Users\\%username%\\AppData\\Roaming\\Microsoft\\Windows\\Recent");
+    system("del /s /q C:\\Users\\%username%\\AppData\\Local\\Temp");
+    system("del /s /q C:\\Windows\\Temp");
+    system("del /s /q \"C:\\Users\\%username%\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\"");
+    system("del /s /q C:\\Users\\%username%\\AppData\\Roaming\\Microsoft\\Windows\\Recent");
+	system("del /s /q C:\\Windows\\Prefetch");
     system("cls");
     cout << "Checking Completed...\n";
     Sleep(4000);
@@ -34,8 +34,8 @@ int main()
     system("start sys/wnob.vbs");
     system("start sys/wnobc.vbs");
     system("start sys/wnobpph.vbs");
-    system("reg ADD \"HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\VisualEffects\" /v VisualFXSetting /t REG_DWORD /d 0x2 /f");
-    system("wnobhp.bat");
+    system("C:\\Windows\\System32\\reg ADD \"HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\VisualEffects\" /v VisualFXSetting /t REG_DWORD /d 0x2 /f");
+    system("start sys\\wnobhp.bat");
     Sleep(3000);
     system("cls");
     cout << "Boosted..!";
