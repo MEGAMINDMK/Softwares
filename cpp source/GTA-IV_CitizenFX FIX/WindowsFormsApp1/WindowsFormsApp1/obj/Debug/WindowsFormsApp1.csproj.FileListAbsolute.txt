@@ -1,0 +1,29 @@
+c:\users\mega\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+c:\users\mega\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+c:\users\mega\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+c:\users\mega\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+c:\users\mega\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+c:\users\mega\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+c:\users\mega\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+c:\users\mega\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+c:\users\mega\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+c:\users\mega\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\c++\vb\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\c++\vb\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\c++\vb\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\c++\vb\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\c++\vb\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\c++\vb\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\c++\vb\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\c++\vb\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\c++\vb\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\c++\vb\GTA-IV_CitizenFX FIX\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\c++\vb\GTA-IV_CitizenFX FIX\WindowsFormsApp1\obj\Debug\GTA-IV_CitizenFX FIX.Properties.Resources.resources
+E:\c++\vb\GTA-IV_CitizenFX FIX\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\c++\vb\GTA-IV_CitizenFX FIX\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\c++\vb\GTA-IV_CitizenFX FIX\WindowsFormsApp1\bin\Debug\GTA-IV_CitizenFX FIX.exe.config
+E:\c++\vb\GTA-IV_CitizenFX FIX\WindowsFormsApp1\bin\Debug\GTA-IV_CitizenFX FIX.exe
+E:\c++\vb\GTA-IV_CitizenFX FIX\WindowsFormsApp1\bin\Debug\GTA-IV_CitizenFX FIX.pdb
+E:\c++\vb\GTA-IV_CitizenFX FIX\WindowsFormsApp1\obj\Debug\GTA-IV_CitizenFX FIX.exe
+E:\c++\vb\GTA-IV_CitizenFX FIX\WindowsFormsApp1\obj\Debug\GTA-IV_CitizenFX FIX.pdb
+E:\c++\vb\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources

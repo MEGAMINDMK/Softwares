@@ -1,0 +1,9 @@
+E:\c++\vb\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+E:\c++\vb\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+E:\c++\vb\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+E:\c++\vb\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+E:\c++\vb\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+E:\c++\vb\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\c++\vb\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\c++\vb\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+E:\c++\vb\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
