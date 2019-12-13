@@ -1,0 +1,30 @@
+E:\c++\vb\WindowsFormsApp1\GTAIV_CitizenFX FIX\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\c++\vb\WindowsFormsApp1\GTAIV_CitizenFX FIX\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\c++\vb\WindowsFormsApp1\GTAIV_CitizenFX FIX\obj\Debug\GTAIV_CitizenFX FIX.csproj.GenerateResource.cache
+E:\c++\vb\WindowsFormsApp1\GTAIV_CitizenFX FIX\obj\Debug\GTAIV_CitizenFX FIX.csproj.CoreCompileInputs.cache
+E:\c++\vb\WindowsFormsApp1\GTAIV_CitizenFX FIX\obj\Debug\GTAIV_CitizenFX FIX.TrustInfo.xml
+E:\c++\vb\WindowsFormsApp1\GTAIV_CitizenFX FIX\obj\Debug\GTAIV_CitizenFX FIX.exe.manifest
+E:\c++\vb\WindowsFormsApp1\GTAIV_CitizenFX FIX\obj\Debug\GTAIV_CitizenFX FIX.exe
+E:\c++\vb\WindowsFormsApp1\GTAIV_CitizenFX FIX\obj\Debug\GTAIV_CitizenFX FIX.pdb
+E:\c++\vb\WindowsFormsApp1\GTAIV_CitizenFX FIX\bin\Debug\GTAIV_CitizenFX FIX.exe.config
+E:\c++\vb\WindowsFormsApp1\GTAIV_CitizenFX FIX\bin\Debug\GTAIV_CitizenFX FIX.exe.manifest
+E:\c++\vb\WindowsFormsApp1\GTAIV_CitizenFX FIX\bin\Debug\GTAIV_CitizenFX FIX.application
+E:\c++\vb\WindowsFormsApp1\GTAIV_CitizenFX FIX\bin\Debug\GTAIV_CitizenFX FIX.exe
+E:\c++\vb\WindowsFormsApp1\GTAIV_CitizenFX FIX\bin\Debug\GTAIV_CitizenFX FIX.pdb
+E:\c++\vb\WindowsFormsApp1\GTAIV_CitizenFX FIX\obj\Debug\GTAIV_CitizenFX FIX.application
+E:\c++\vb\WindowsFormsApp1\GTAIV_CitizenFX FIX\obj\Debug\GTAIV_CitizenFX FIX.csprojAssemblyReference.cache
+F:\c++\vb\WindowsFormsApp1\GTAIV_CitizenFX FIX\bin\Debug\GTAIV_CitizenFX FIX.exe.config
+F:\c++\vb\WindowsFormsApp1\GTAIV_CitizenFX FIX\bin\Debug\GTAIV_CitizenFX FIX.exe.manifest
+F:\c++\vb\WindowsFormsApp1\GTAIV_CitizenFX FIX\bin\Debug\GTAIV_CitizenFX FIX.application
+F:\c++\vb\WindowsFormsApp1\GTAIV_CitizenFX FIX\bin\Debug\GTAIV_CitizenFX FIX.exe
+F:\c++\vb\WindowsFormsApp1\GTAIV_CitizenFX FIX\bin\Debug\GTAIV_CitizenFX FIX.pdb
+F:\c++\vb\WindowsFormsApp1\GTAIV_CitizenFX FIX\obj\Debug\GTAIV_CitizenFX FIX.csprojAssemblyReference.cache
+F:\c++\vb\WindowsFormsApp1\GTAIV_CitizenFX FIX\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\c++\vb\WindowsFormsApp1\GTAIV_CitizenFX FIX\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\c++\vb\WindowsFormsApp1\GTAIV_CitizenFX FIX\obj\Debug\GTAIV_CitizenFX FIX.csproj.GenerateResource.cache
+F:\c++\vb\WindowsFormsApp1\GTAIV_CitizenFX FIX\obj\Debug\GTAIV_CitizenFX FIX.csproj.CoreCompileInputs.cache
+F:\c++\vb\WindowsFormsApp1\GTAIV_CitizenFX FIX\obj\Debug\GTAIV_CitizenFX FIX.TrustInfo.xml
+F:\c++\vb\WindowsFormsApp1\GTAIV_CitizenFX FIX\obj\Debug\GTAIV_CitizenFX FIX.exe.manifest
+F:\c++\vb\WindowsFormsApp1\GTAIV_CitizenFX FIX\obj\Debug\GTAIV_CitizenFX FIX.application
+F:\c++\vb\WindowsFormsApp1\GTAIV_CitizenFX FIX\obj\Debug\GTAIV_CitizenFX FIX.exe
+F:\c++\vb\WindowsFormsApp1\GTAIV_CitizenFX FIX\obj\Debug\GTAIV_CitizenFX FIX.pdb
