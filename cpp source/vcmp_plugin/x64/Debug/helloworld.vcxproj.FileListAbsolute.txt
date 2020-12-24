@@ -1,0 +1,2 @@
+C:\Users\MEGA\Downloads\helloworld\x64\Debug\webnet64.dll
+C:\Users\MEGA\Downloads\helloworld\x64\Debug\webnet64.pdb

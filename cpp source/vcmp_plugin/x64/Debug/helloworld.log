@@ -1,0 +1,10 @@
+﻿  ConsoleUtils.cpp
+  SQConsts.cpp
+  SQFuncs.cpp
+C:\Users\MEGA\Downloads\helloworld\SQFuncs.cpp(24,15): warning C4244: 'initializing': conversion from 'SQInteger' to 'int', possible loss of data
+  SQMain.cpp
+  Generating Code...
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/OPT:ICF' specification
+ConsoleUtils.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:ICF' specification
+     Creating library C:\Users\MEGA\Downloads\helloworld\x64\Debug\webnet64.lib and object C:\Users\MEGA\Downloads\helloworld\x64\Debug\webnet64.exp
+  helloworld.vcxproj -> C:\Users\MEGA\Downloads\helloworld\x64\Debug\webnet64.dll
