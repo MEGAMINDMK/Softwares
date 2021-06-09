@@ -24,7 +24,9 @@ int main()
     system("del /s /q C:\\Windows\\Temp");
     system("del /s /q \"C:\\Users\\%username%\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\"");
     system("del /s /q C:\\Users\\%username%\\AppData\\Roaming\\Microsoft\\Windows\\Recent");
-	system("del /s /q C:\\Windows\\Prefetch");
+    system("del /s /q C:\\Windows\\Prefetch");
+    system("del /s /q "%USERPROFILE%\Local Settings\Temp\*.*"");
+    system("del /s /q "%LOCALAPPDATA%\Temp\*.*"");
     system("cls");
     cout << "Checking Completed...\n";
     Sleep(4000);
