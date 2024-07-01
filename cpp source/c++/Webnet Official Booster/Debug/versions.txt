@@ -1,0 +1,127 @@
+======= Webnet Official Booster =========
+
+A software which boosts up and optimizes your pc for better performance
+
+Version History:
+================
+
+Webnet Official Booster v1.4
+Features
+1.Added a scanning method where it checks for corrupted or missing files and fixes them
+2.Added disk cleaner
+3.Added degramenter
+4.Removed unwanted code
+---------------------------------------
+
+Webnet Official Booster v1.3
+Features
+1.Added a method to make more space to system and boostup drive by removing unwanted SoftwareDistribution of windows
+2.Removes extra cache and temp logs as well
+---------------------------------------
+
+Webnet Official Booster v1.2
+Features
+1.Fixed Disk defrag
+2.Fixed ram booster not working in few systems
+3.Added chkdsk to fix any bad sectors and boost drive
+4.Added ipconfig /FlushDNS support to boost ram
+5.Removes unwanted content from recyclebin
+6.Added system reboot for changes to take effect
+7.Added mechanism to remove $recycle.bin from all drives where present
+Note: After system reboot you may see an option to run chkdsk its  upto u to let it run or cancel it..
+---------------------------------------
+
+Webnet Official Booster v1.1
+Features 
+1. Added Disk defrag
+2. Faster then previous version
+----------------------------------------
+
+Webnet Official Booster v1.0
+Features 
+1. Removed unwanted string
+2. Fixed a escape sequence
+3. 2x double speed then previous version
+----------------------------------------
+
+Webnet Official Booster v0.9
+Features 
+1. Removed unwanted string
+2. Fixed a variable path declarer
+3. Bugs Fixes
+----------------------------------------
+
+Webnet Official Booster v0.8
+Features 
+1. Fixes slugish / laged pc
+2. Performence enhancing
+3. Better FPS & Gameplay
+4. System Optimization
+5. Added GUI
+6. Un Boosting support
+7. Re-wrote code
+8. Removed bad code
+9. New core handler
+10. Removed unwanted files
+----------------------------------------
+
+Webnet Official Booster v0.7
+Features 
+1. Fixes slugish / laged pc
+2. Performence enhancing
+3. Better FPS & Gameplay
+4. System Optimization
+5. Added GUI
+6. Un Boosting support
+----------------------------------------
+
+Webnet Official Booster v0.6
+Features 
+1. Fixes slugish / laged pc
+2. Performence enhancing
+3. Better FPS & Gameplay
+4. System Optimization
+5. Added GUI
+----------------------------------------
+
+Webnet Official Booster v0.5
+Features 
+1. Fixes slugish / laged pc
+2. Performence enhancing
+3. Better FPS & Gameplay
+4. System Optimization
+
+----------------------------------------
+
+Webnet Official Booster v0.4
+Features 
+1. Fixes slugish / laged pc
+2. Performence enhancing
+3. Better FPS & Gameplay
+
+----------------------------------------
+
+Webnet Official Booster v0.3
+Features 
+1. Fixes slugish / laged pc
+2. Performence enhancing
+3. Better FPS & Gameplay
+4. Manual Guide
+
+----------------------------------------
+
+Webnet Official Booster v0.2
+Features 
+1. Fixes slugish / laged pc
+2. Performence enhancing
+3. Better FPS & Gameplay
+4. Manual Guide
+
+-----------------------------------------
+
+Webnet Official Booster v0.1
+Features
+1. Fixes slugish / laged pc
+2. Performence enhancing
+3. Better FPS & Gameplay
+
