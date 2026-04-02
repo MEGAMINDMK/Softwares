@@ -50,6 +50,9 @@ int main()
     system("sfc /scannow");
     system("cls");
     Sleep(4000);
+	system("DISM /Online /Cleanup-Image /RestoreHealth");
+	system("cls");
+    Sleep(4000);
     system("cleanmgr /dc");
     Sleep(4000);
     //cleanmgr /verylowdisk -> without user prompt /d -> drive
@@ -76,7 +79,7 @@ int main()
     system("cls");
     Sleep(4000);
     system("cls");
-    system("chkdsk /x /r");
+   system("chkdsk /f /r /x");
     Sleep(3000);
     cout << "Boosted..!";
     Sleep(3000);
