@@ -43,7 +43,7 @@ int main()
     system("cls");
     system("ipconfig /FlushDNS");
     Sleep(4000);
-	system("powercfg -h on");
+	system("powercfg -h off");
     Sleep(4000);
 	system("boost.reg");
     Sleep(4000);
