@@ -53,7 +53,7 @@ int main()
 	system("DISM /Online /Cleanup-Image /RestoreHealth");
 	system("cls");
     Sleep(4000);
-    system("cleanmgr /dc");
+    system("cleanmgr /verylowdisk");
     Sleep(4000);
     //cleanmgr /verylowdisk -> without user prompt /d -> drive
     cout << "Checking Completed...\n";
